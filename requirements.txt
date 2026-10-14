@@ -1,0 +1,6 @@
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.13,<2
+matplotlib>=3.9,<4
+streamlit>=1.40,<2
+spm1d>=0.4.53,<0.5

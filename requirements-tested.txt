@@ -1,0 +1,6 @@
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+streamlit==1.66.0
+spm1d==0.4.54
